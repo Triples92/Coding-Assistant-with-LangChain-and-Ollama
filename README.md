@@ -73,7 +73,3 @@ This project is just the beginning. I plan to:
 ## Want to Contribute?
 
 Feel free to fork the repo and submit a pull request. Whether it’s adding a feature or fixing a bug, all contributions are welcome!
-
----
-
-Let me know if you’d like to add any additional sections or if there are any adjustments you'd like to make!
